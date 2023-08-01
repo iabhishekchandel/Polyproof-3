@@ -1,4 +1,4 @@
-# Polygon-zkEVM
+# Polygon Proof Module-3 
 It is `pragma circom 2.0.0` language, which is a declarative language used for describing and implementing arithmetic circuits. This language is used in the context of zero-knowledge proofs and cryptographic applications to specify circuits and their logic.
 ## Description
 It defines a simple circuit named `Circom`, which consists of three basic logic gates: AND, NOT, and OR. The circuit takes two input signals, `a` and `b`, and produces a single output signal, `Q`.
